@@ -116,7 +116,7 @@ const renderTrailer = () => {
 
 
 
-      <div className='bg-black p-0 grid grid-cols-4 gap-1'>
+      <div className='bg-black p-0 grid grid-cols-4 gap-1 ml-24 xl:ml-0 lg:ml-0 md:ml-0 sm:ml-0'>
           {renderMovies()}
         </div>
 
